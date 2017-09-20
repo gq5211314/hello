@@ -1,0 +1,88 @@
+.ziti{
+    height: 50rem;
+    position: absolute;
+    top: 30px;
+    left:20%;
+    animation-delay:.5s;
+}
+.p111{
+    font-size: 20px;
+}
+.but1,.but2{
+	width: 200px;
+    height: 40px;
+    border-radius: 50px;
+    color:#fff;
+    text-align:center;
+}
+.but1{
+      background: #77BD38;
+      margin-top: 10px;
+  }
+.but2{
+	background: #00B0EC;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ul1 li{
+		position:relative;
+		height:300px;
+		border:1px solid #DDDDDD;
+		list-style: none;
+		overflow:hidden;
+		text-align: center;
+		cursor: pointer;
+	}
+	#wrap ul li .cover{
+				height:300px;
+				position:absolute;
+				top:0px;
+				left:100%;
+
+			}
+			#wrap ul li h3{
+				margin-top:180px;
+				opacity: .9;
+			}
+			#wrap ul li  p{
+				margin:0 20px 0 20px;
+				opacity: .8;
+			}
+			
+			.padd{
+				padding-left: 0;
+				padding-right: 0;
+			}
+			li.bor{
+				border-left: none;
+			}
+			li.topbor{
+				border-top:none;
+			}
