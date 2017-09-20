@@ -1,6 +1,6 @@
 <template>
   <div class="aboutUS">
-  这是关于我们
+  helloworld
   </div>
 </template>
 
